@@ -1,0 +1,6 @@
+colpali-engine 
+torch 
+boto3 
+tqdm 
+pymupdf
+google-generativeai

@@ -1,0 +1,19 @@
+boto3
+langchain>=0.1.0
+
+# PDF Processing
+PyMuPDF>=1.24.0
+tabula-py>=2.9.0
+
+# Vector Search
+faiss-cpu>=1.8.0
+
+# Utilities
+tqdm>=4.66.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+JPype1
+transformers 
+torch 
+torchvision
+google-generativeai
